@@ -1,8 +1,10 @@
-# Voting Smart Contract Project
+# Voting Smart Contract Sample Project
+
+There is a sample contract deployed at https://sepolia.etherscan.io/address/0xc015e97a1f2c21e8fe2bdfc69dbea9ecc4d9bff5
 
 This project implements a decentralized voting system using Ethereum smart contracts, with a Node.js/Express backend API for interaction.
 
-## Part 1: Smart Contract Development
+## Part 1: Smart Contract
 
 ### Prerequisites
 
